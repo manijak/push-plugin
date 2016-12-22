@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Push.h</key>
 		<data>
-		jvS3k3DIaqEsomyLBVgeFR07gYc=
+		0ZDEJQtmyRydof4txD00NV+GWHM=
 		</data>
 		<key>Headers/PushManager.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KUYYX6c0fxbWE2o9MWh9QaorTa8=
+		MuOT5UfaoTrY/tb65Byw1h6U1Ag=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,11 +31,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jvS3k3DIaqEsomyLBVgeFR07gYc=
+			0ZDEJQtmyRydof4txD00NV+GWHM=
 			</data>
 			<key>hash2</key>
 			<data>
-			zNYU2D/BKumbue7VnqkzQmfuNfi59ZI1cG3oFj3MJas=
+			FYq7Pa6KJ01zbR2a5nejYNt9FFTTwi6wF2XPvqhDg6g=
 			</data>
 		</dict>
 		<key>Headers/PushManager.h</key>
